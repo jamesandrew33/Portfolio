@@ -1,0 +1,223 @@
+Please download this template  Download template, which you will upload for submission. On the template you should include links to: 
+
+Home page
+CSS file for GitHub pages
+The file where you imported Bootstrap, for extra credit
+PacMen Exercise Repository
+Eye Exercise Repository
+Real Time Bus Tracking Repository
+ 
+
+Website Requirements
+Your website should include the following:
+
+Video Introduction, which should be: 
+An introduction to yourself, including an overview of your work and skills
+Uploaded on to YouTube
+Embedded on the homepage of your site
+2 minutes or less
+        2. Bio, which should include:
+
+Minimum of 50 words
+Photo
+GitHub username
+LinkedIn link
+Best way to contact you
+       3. Pages and Navigation, so your website includes:
+
+Landing page, which contains your video introduction and bio
+Projects page, which includes information on your coding projects
+Navigation bar, so users can navigate between the two pages
+        4. Styles, you should style your website including:
+
+Font
+Color 
+Navigation
+Image
+Styled links 
+Use of grid layout, which will be assessed by looking at the link to your CSS file
+     5.Projects Page, should include the following for two or more projects. These links should go directly to the repositories you will submit for grading in the GitHub Repository Assignment Submission. 
+
+Project titles for the PacMen Exercise, Eye Exercise, and Real Time Bus Tracking projects
+Links to GitHub repositories 
+Project descriptions (1 - 5 sentences per project)
+     6. Extra Credit: Bootstrap: If you use Bootstrap for styling, you will receive extra credit. Upload a direct link to the file where you imported Bootstrap for this project to receive credit. 
+
+ 
+
+GitHub Repository Requirements
+You will also be assessed on the GitHub repositories for three coding projects: PacMen Exercise, Eye Exercise, and Real Time Bus Tracker. 
+
+The README for each repository should contain: 
+
+Project Title
+Description of Project (minimum of 20 words)
+How to Run: This is information someone would use to get started running your project on their machine. 
+
+Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+License information: This should include information about the MIT license. 
+The file structure for each repository should align to the following: 
+
+PacMen Exercise
+images/pacman1
+images/pacman2
+images/pacman3
+images/pacman4
+Index.html
+pacmen.js
+ Eye Exercise
+index.html
+eyes.js
+styles.css
+Real Time Bus Tracker
+Index.html
+mapanimation.js
+styles.css
+You may also review the rubric below for more information on how your work will be assessed.
+
+Rubric
+Portfolio Rubric
+Portfolio Rubric
+Criteria	Ratings	Pts
+This criterion is linked to a Learning OutcomeVideo Introduction
+Introduce yourself
+Overview of work and skills
+May include fun facts
+Uploaded to Youtube
+Embedded in website
+2 minutes or less
+3 pts
+Excellent
+Introduces yourself Includes overview of your work and skills Uploaded to Youtube Embedded in website 2 minutes or less
+2 pts
+Proficient
+Introduces yourself Uploaded to Youtube Embedded in website
+0 pts
+Criterion Not Met
+No introduction video is embedded on website.
+3 pts
+This criterion is linked to a Learning OutcomeWebsite Bio Score
+2 pts
+Excellent
+Bio includes: Minimum 50 words Photo GitHub username Linkedin link Contact Information (Email address or best way to contact otherwise)
+1 pts
+Proficient
+Bio includes: Minimum 50 words GitHub username Linkedin Link
+0 pts
+Criterion Not Met
+Bio does not meet minimum standards of: 50 words GitHub username Linkedin Link
+2 pts
+This criterion is linked to a Learning OutcomePages & Navigation Score
+Pages & Navigation
+Landing page
+Projects page
+Navigation Bar
+4 pts
+Excellent
+Website includes: Landing page Projects page Navigation Bar
+2 pts
+Proficient
+Website includes: Landing page Projects page
+0 pts
+Criterion Not Met
+Only one page No clear navigation
+4 pts
+This criterion is linked to a Learning OutcomeStyles Score
+4 pts
+Excellent
+Styling includes: Font Color Image (1 or more) Styled links: links should not just be blue and underlined Navigation Makes use of grid layout (look at code for this, direct link to CSS file is uploaded)
+2 pts
+Proficient
+Styling includes: Font Color Image (1 or more) Styled links: links should not just be blue and underlined Does not have default styling for headers, links, text, backgrounds, etc.
+0 pts
+Criterion Not Met
+Default styling
+4 pts
+This criterion is linked to a Learning OutcomeProjects Scoring
+4 pts
+Excellent
+Website includes the following information for two or more projects: Project titles Links to GitHub repositories Project descriptions (1 - 5 sentences per project)
+2 pts
+Proficient
+Website includes the following information for two or more projects: Project titles Links to GitHub repositories
+0 pts
+Criterion Not Met
+There is information on only one project or no projects.
+4 pts
+This criterion is linked to a Learning OutcomeBootstrap Extra Credit Points
+Bootstrap (extra credit)
+Upload code file where bootstrap is imported for the GitHub pages page (direct link to github where the import is)
+5 pts
+Proficient
+Uses bootstrap, with evidence of import to GitHub pages page
+0 pts
+Criterion Not Met
+Bootstrap is not used
+5 pts
+This criterion is linked to a Learning OutcomePacMen Exercise: README
+4 pts
+Excellent
+README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information
+2 pts
+Proficient
+README file includes: Title Description of project (minimum 20 words) How to Run
+0 pts
+Criterion Not Met
+README file is not linked or do not contain the minimum information.
+4 pts
+This criterion is linked to a Learning OutcomePacMen Exercise File Structure
+4 pts
+Excellent
+Includes appropriate file structure: images/pacman1 images/pacman2 images/pacman3 images/pacman4 Index.html pacmen.js
+2 pts
+Proficient
+Includes the following file structure: pacman1 pacman2 pacman3 pacman4 Index.html pacmen.js
+0 pts
+Criterion Not Met
+The filetree is not set up correctly.
+4 pts
+This criterion is linked to a Learning OutcomeEye Exercise Repository README
+4 pts
+Excellent
+README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information
+2 pts
+Proficient
+README file includes: Title Description of project (minimum 20 words) How to Run
+0 pts
+Criterion Not Met
+README file is not linked or do not contain the minimum information.
+4 pts
+This criterion is linked to a Learning OutcomeEye Exercise Repository File Structure
+4 pts
+Excellent
+Includes appropriate file structure: Index.html Eyes.js styles.css
+2 pts
+Proficient
+Includes two of the three required files: Index.html Eyes.js styles.css
+0 pts
+Criterion Not Met
+The file tree is not set up correctly.
+4 pts
+This criterion is linked to a Learning OutcomeReal Time Bus Tracking Repository README
+4 pts
+Excellent
+README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information
+2 pts
+Proficient
+README file includes: Title Description of project (minimum 20 words) How to Run
+0 pts
+Criterion Not Met
+README file is not linked or do not contain the minimum information.
+4 pts
+This criterion is linked to a Learning OutcomeReal Time Bus Tracker Repository File Structure
+4 pts
+Excellent
+Includes appropriate file structure: Index.html mapanimation.js styles.css
+2 pts
+Proficient
+Includes two of the three required files: Index.html mapanimation.js styles.css
+0 pts
+Criterion Not Met
+The file tree is not set up correctly.
+4 pts
+Total Points: 46
